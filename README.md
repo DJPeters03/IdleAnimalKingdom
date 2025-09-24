@@ -15,10 +15,10 @@ A lightweight idle/incremental game prototype built per the design prompt.
 - Buy animals on the **left**; they roam around a circular **pot** on the **right**.
 - Costs scale by ×1.3 per purchase. Milestones: every **25** owned of a type **double** that type’s output.
 - Unlocks:
-  - **Zebra** (after 100 monkeys) — each zebra boosts monkey output by **+0.5%**.
-  - **Gorilla** (after 50 zebras) — **+1%** to monkeys & zebras each.
-  - **Elephant** (after 50 gorillas) — occasional **10×** bursts; **+30 min** offline cap each.
-  - **Parrot** (after 50 elephants) — **+10% global speed each** and periodic cache drops.
+  - **Zebra**  — each zebra boosts monkey output by **+0.5%**.
+  - **Gorilla** — **+1%** to monkeys & zebras each.
+  - **Elephant**  — occasional **10×** bursts; **+30 min** offline cap each.
+  - **Parrot** — **+10% global speed each** and periodic cache drops.
 - **Prestige** converts lifetime production into **Relics** (≈ √(total/1e12)), each giving **+1% global** production permanently.
 
 ## Files
